@@ -6,12 +6,12 @@ using namespace std;
 /* takeaways 
      - two pointers i and j, which are row indexes
        of encoded1 and encoded2 respectively
-       - they might advance to next row at a 
+       - they might advance to the next row at a 
          different pace
 
      - however they need to be in-sync in terms 
-       of the number of elements being paired to 
-       produce the same product
+       of the number of elements being paired up 
+       to produce the same product
 
      - let use test fixture 2 as an example to
        explain:
@@ -39,8 +39,7 @@ using namespace std;
        - now we can produce two 3x3=9's
          - so the result becomes [[2,3],[6,1],[9,2]]       
        - you also need to make sure the result
-         have the minimum number of rows possible             
-  
+         have the minimum number of rows possible
   */
 
 /* 
