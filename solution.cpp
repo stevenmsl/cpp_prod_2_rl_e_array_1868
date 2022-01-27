@@ -10,8 +10,8 @@ using namespace std;
          different pace
 
      - however they need to be in-sync in terms 
-       of the number of elements being paired up 
-       to produce the same product
+       of the total number of elements being 
+       paired up to produce the same product
 
      - let use test fixture 2 as an example to
        explain:
