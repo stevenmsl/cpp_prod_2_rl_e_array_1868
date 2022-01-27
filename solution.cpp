@@ -39,7 +39,7 @@ using namespace std;
        - now we can produce two 3x3=9's
          - so the result becomes [[2,3],[6,1],[9,2]]       
        - you also need to make sure the result
-         have the minimum number of rows possible
+         has the minimum number of rows possible
   */
 
 /* 
